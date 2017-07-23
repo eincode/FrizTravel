@@ -62,7 +62,7 @@ export default class SearchFlight extends Component {
             {
                 toValue: 100,
                 easing: Easing.bezier(0.25, 1, 0.25, 1),
-                duration: 500
+                duration: 750
             }
         ).start()
     }
