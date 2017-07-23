@@ -5,4 +5,4 @@ A simple UI for travel booking purposes
 
 Demo so far
 
-![alt text](https://github.com/Princhaa/FrizTravel/blob/master/demo.gif)
+![alt text](https://github.com/Princhaa/FrizTravel/blob/master/demo.gif =250x)
